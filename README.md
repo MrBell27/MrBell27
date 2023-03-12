@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sirron, an <a href="https://linkedin.com/in/sirron-bell">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sirron,  <a href="https://linkedin.com/in/sirron-bell"></a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
